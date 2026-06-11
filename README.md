@@ -7,11 +7,10 @@ The project team at MS Engineering College, Bangalore
 5.	Sai Prashanth, saragallasaiprashanth@gmail.com, 91130 22029
 6.	Smitha S,  psmitha.s777@gmail.com, 8088847321
 Project supervisor
-•	Dr. Sunitha P H, sunithaph.ece@msec.ac.in, 972368486
+1.	Dr. Sunitha P H, sunithaph.ece@msec.ac.in, 972368486
 Sponsored and supported by 
-•	Shri. Sudarshan M. – Chairman, MSEC, Bangalore 
-Chief Mentor
-Dr. Cyril Prasanna Raj P., CIT, Bangalore
+2.	Shri. Sudarshan M. – Chairman, MSEC, Bangalore 
+The work carried out by the students team involved understanding ASIC design flow using openlane and working with GF180nm design files. Before completing this project the team worked on several micro designs to get hands on expertise. Developed own code to be tested for functionality. Dr. Cyril Prasanna Raj P., Professor and CIT was able to provide necessary technical support to complete this task successfully. 
 ![GDS Badge](../../workflows/gds/badge.svg)
 ![Docs Badge](../../workflows/docs/badge.svg)
 ![Test Badge](../../workflows/test/badge.svg)
