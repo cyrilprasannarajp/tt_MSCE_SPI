@@ -1,3 +1,17 @@
+This project is a first attempt by the team at MSEC, Bangalore to learn the process of RTL-GDSII flow using Tiny Tapeout Platform. 
+The project team at MS Engineering College, Bangalore 
+1.	Harshitha B R, harshithaharshitha32679@gmail.com, 8088935246
+2.	Jayanth S, jayanthjayanth949@gmail.com, 8861183113
+3.	Maheshwari, maheshwarikollar@gmail.com, 9008689695
+4.	Mohammad Zaman, zamanpasha55@gmail.com,  8310007327
+5.	Sai Prashanth, saragallasaiprashanth@gmail.com, 91130 22029
+6.	Smitha S,  psmitha.s777@gmail.com, 8088847321
+Project supervisor
+•	Dr. Sunitha P H, sunithaph.ece@msec.ac.in, 972368486
+Sponsored and supported by 
+•	Shri. Sudarshan M. – Chairman, MSEC, Bangalore 
+Chief Mentor
+Dr. Cyril Prasanna Raj P., CIT, Bangalore
 ![GDS Badge](../../workflows/gds/badge.svg)
 ![Docs Badge](../../workflows/docs/badge.svg)
 ![Test Badge](../../workflows/test/badge.svg)
